@@ -57,7 +57,7 @@ body > header {
    background-color: rgb(218, 210, 218);
    border-bottom: 1px solid rgb(153, 0, 153);
    color: white;
-   padding-bottom: 45px;
+   /*padding-bottom: 45px; disabling this because it is unimportant and bothers me :)*/
 
 }
 
